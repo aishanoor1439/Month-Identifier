@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Month Identifier\Month Identifier\obj\Debug\Month Identifier.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Month Identifier\Month Identifier\obj\Debug\Month Identifier.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Month Identifier\Month Identifier\bin\Debug\Month Identifier.exe.config
+C:\Users\DELL\source\repos\Month Identifier\Month Identifier\bin\Debug\Month Identifier.exe
+C:\Users\DELL\source\repos\Month Identifier\Month Identifier\bin\Debug\Month Identifier.pdb
+C:\Users\DELL\source\repos\Month Identifier\Month Identifier\obj\Debug\Month Identifier.exe
+C:\Users\DELL\source\repos\Month Identifier\Month Identifier\obj\Debug\Month Identifier.pdb
